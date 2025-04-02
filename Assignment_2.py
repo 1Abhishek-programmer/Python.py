@@ -7,7 +7,7 @@ a = int(input("Enter the number: "))
 # 2. 	Checks whether the number is even or odd using an if-else statement.
 # 3. 	Displays the result accordingly.
 if(a % 2)==0:
-     print("Even number                 ",a)
+     print("Even number",a)
 else:
     print("odd number",a)
 
